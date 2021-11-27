@@ -1,0 +1,23 @@
+body {
+    background-color: #393E46;
+}
+
+.page{
+    text-align: center;
+    
+}
+
+.heading h1 {
+    color: #4ECCA3;
+    font-family: 'Lobster', cursive;
+    font-size: 8rem;
+}
+
+.player {
+    color: #4ECCA3;
+    font-family: 'Indie Flower', cursive;
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: row nowrap;
+}
