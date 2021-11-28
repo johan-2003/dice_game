@@ -17,7 +17,11 @@ body {
     color: #4ECCA3;
     font-family: 'Indie Flower', cursive;
     font-size: 2rem;
+    
+}
+
+.players{
     display: flex;
     justify-content: center;
-    flex-direction: row nowrap;
+    gap: 50px;
 }
