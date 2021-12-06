@@ -36,7 +36,7 @@ body {
     font-family: 'Lobster', cursive;
     border:none;
     border-radius: 12px;
-    border: 2px solid #4ECCA3;
+    border: 3px solid #4ECCA3;
 
 
     background-color: #4ECCA3;
@@ -47,8 +47,7 @@ body {
 
 
 .roll-button:hover {
-    color: white;
-    opacity: 0.9;
     background-color: #393E46;
+    color: #4ECCA3;
 
 }
